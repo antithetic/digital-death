@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-import sanity from '@sanity/astro';
+// import sanity from '@sanity/astro';
 import react from '@astrojs/react';
 
 // https://astro.build/config
